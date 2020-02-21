@@ -8,4 +8,9 @@ Timeline:
 * Metagenomics
 * Genomic medicine
 * Synthetic biology and bioengineering
+* Computational genomics
+* Pathogenomics
+* Personal genomics
+* Transcriptomics
+* Psychogenomics
 
